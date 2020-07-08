@@ -42,7 +42,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Les arts vivants sont une véritable passion chez moi et cela fait maintenant une quinzaine d’années que je m’investis bénévolement dans le milieu de la musique plus particulièrement. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Organisation de concerts, de festivals, développement d’artistes, rédaction d’articles de presse et community management sont des tâches qui me sont familières. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Posé et réfléchi, j’aime tisser des liens et suis capable de m’adapter rapidement à des milieux qui peuvent être différents. La poursuite de mes objectifs et la qualité de mon travail sont au centre de mes préoccupations.
