@@ -1,7 +1,7 @@
 ---
 title: Sebastien Soler
 role: Communication / Events / Marketing / Vente
-avatar_filename: 03_photo.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
