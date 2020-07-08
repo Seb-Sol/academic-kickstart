@@ -3,8 +3,8 @@ title: Sebastien Soler
 role: Communication / Events / Marketing / Vente
 avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Balelec Festival
+    url: balelec.ch
 superuser: true
 authors:
   - admin
