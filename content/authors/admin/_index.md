@@ -12,9 +12,10 @@ bio: Les arts vivants sont une véritable passion chez moi et cela fait
   maintenant une quinzaine d’années que je m’investis bénévolement dans le
   milieu de la musique plus particulièrement.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Musique
+  - Festival
+  - Vie Nocturne
+  - Nouvelles technologies
 social:
   - icon: envelope
     icon_pack: fas
